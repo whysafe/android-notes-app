@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Лист заметки с загнутым углом и строками -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#3D3A2E" android:strokeWidth="2.5"
+        android:pathData="M36,30 L64,30 L74,40 L74,78 L36,78 Z" />
+    <path android:fillColor="#E8D98A" android:pathData="M64,30 L64,40 L74,40 Z" />
+    <path android:strokeColor="#3D3A2E" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:pathData="M43,48 L66,48 M43,56 L66,56 M43,64 L58,64" />
+</vector>
